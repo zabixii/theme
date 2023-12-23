@@ -1,11 +1,11 @@
 {
     "name": "theme",
-    "description": "#1 theme for dc mobile",
+    "description": "#1 theme for dc",
     "authors": [
 
         {
             "name": "zabixii",
-            "id": "idk"
+            "id": "69"
           
         }
     ],
@@ -70,7 +70,7 @@
             "#3B2B43"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#2c2032"
+            "#5bff2e"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#3E2E47"
@@ -153,11 +153,10 @@
     },
     
     "background": {
-    "blur": 0,
-    "color": "#000000",  // Set the color code for black
-    "alpha": 0
-},
-,
+        "blur": 0,
+        "url": "https://cdn.discordapp.com/attachments/1142927320869515479/1188221220332765204/image0.jpg?ex=6599bc3f&is=6587473f&hm=ce1df700ed02bbb7cb1f8d2578796ea5579968618661a6f557f7101c4c2f197b&",
+        "alpha": 0
+        },
         "plus":{
        "version":"0",
         "iconpack":"rosiecord-plumpy",
@@ -171,4 +170,4 @@
               "StatusOnline": ["#09bd63"]}
     },
         "color": "#6b8e4e"
-}
+            }
