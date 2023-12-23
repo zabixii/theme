@@ -154,7 +154,7 @@
     
     "background": {
         "blur": 0.5,
-        "url": "https://cdn.discordapp.com/attachments/1142927320869515479/1188223882755313754/image0.jpg?ex=6599beb9&is=658749b9&hm=0d9b40a98abe88a3ab9c6d3968405dd28af13331bf60c5b952463d3ac8924153&",
+        "url": "https://i.postimg.cc/cL3yjCpJ/Screenshot-2023-12-23-23-34-32-41-5ebfcf33cb3c1568bf405cf7007dad08.jpg",
         "alpha": 0.7
         },
         "plus":{
