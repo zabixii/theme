@@ -1,6 +1,6 @@
 {
     "name": "theme",
-    "description": "#1 theme for dc mobile",
+    "description": "#2 theme for dc mobile",
     "authors": [
 
         {
@@ -153,9 +153,9 @@
     },
     
     "background": {
-        "blur": 0.5,
+        "blur": 0,
         "url": "https://i.postimg.cc/cL3yjCpJ/Screenshot-2023-12-23-23-34-32-41-5ebfcf33cb3c1568bf405cf7007dad08.jpg",
-        "alpha": 0.7
+        "alpha": 0
         },
         "plus":{
        "version":"0",
