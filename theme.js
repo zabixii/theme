@@ -1,94 +1,173 @@
 {
     "name": "theme",
-    "description": "#1 theme for dc",
+    "description": "#1 theme for dc mobile",
     "authors": [
+
         {
             "name": "zabixii",
-            "id": "69"
+            "id": "idk"
+          
         }
     ],
     "spec": 2,
     "semanticColors": {
-        "HEADER_PRIMARY": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "HEADER_SECONDARY": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "TEXT_NORMAL": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "TEXT_MUTED": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "INTERACTIVE_NORMAL": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "INTERACTIVE_HOVER": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "INTERACTIVE_ACTIVE": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "INTERACTIVE_MUTED": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_PRIMARY": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_SECONDARY": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_SECONDARY_ALT": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_TERTIARY": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_ACCENT": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_FLOATING": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_MOBILE_PRIMARY": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_MOBILE_SECONDARY": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_NESTED_FLOATING": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_MESSAGE_HOVER": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_MODIFIER_HOVER": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_MODIFIER_SELECTED": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BACKGROUND_MODIFIER_ACCENT": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "SCROLLBAR_THIN_THUMB": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "SCROLLBAR_THIN_TRACK": ["transparent"],
-        "SCROLLBAR_AUTO_THUMB": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "SCROLLBAR_AUTO_TRACK": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "CHANNELS_DEFAULT": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "TEXT_LINK": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "TEXT_DANGER": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "KEYBOARD": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "CHANNEL_ICON": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "CHAT_BACKGROUND": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "CARD_PRIMARY_BG": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "CARD_SECONDARY_BG": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#"+((1<<24)*Math.random()|0).toString(16)],
-        "BG_BACKDROP": ["#"+((1<<24)*Math.random()|0).toString(16)]
+        "HEADER_PRIMARY": [
+            "#f2d0cf"
+        ],
+        "HEADER_SECONDARY": [
+            "#f2d0cf"
+        ],
+        "TEXT_NORMAL": [
+            "#E7D6CE"
+        ],
+        "TEXT_MUTED": [
+            "#8A7675"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#f2d0cf"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#BDA2A2"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#CBA9A8"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#8A7675"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#281f2b"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2B2130"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#31223b"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#231b27"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#74646d"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#17121A"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#281f2b"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#322833"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#17121A"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#2C2131"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#3B2B43"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#2c2032"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3E2E47"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#231b27"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#A89090"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7C6766"
+        ],
+        "TEXT_LINK": [
+            "#C2A8A7"
+        ],
+        "TEXT_DANGER": [
+            "#5A4565"
+        ],
+        "KEYBOARD": [
+            "#312438"
+        ],
+        "CHANNEL_ICON": [
+            "#EFDFD7"
+        ],
+        "CHAT_BACKGROUND": [
+            "#312438"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#31223b"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#281f2b"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#31223b"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#74646d"
+        ],
+        "BG_BACKDROP": [
+            "#04010173"
+        ]
     },
     "rawColors": {
-        "PRIMARY_500": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_100": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_200": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_230": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_300": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_360": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_400": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_600": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_630": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_645": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_660": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_700": "#"+((1<<24)*Math.random()|0).toString(16),
-        "PRIMARY_800": "#"+((1<<24)*Math.random()|0).toString(16),
-        "BRAND_260": "#"+((1<<24)*Math.random()|0).toString(16),
-        "BRAND_360": "#"+((1<<24)*Math.random()|0).toString(16),
-        "BRAND_500": "#"+((1<<24)*Math.random()|0).toString(16),
-        "BRAND_560": "#"+((1<<24)*Math.random()|0).toString(16),
-        "YELLOW_300": "#"+((1<<24)*Math.random()|0).toString(16),
-        "GREEN_600": "#"+((1<<24)*Math.random()|0).toString(16),
-        "RED_400": "#"+((1<<24)*Math.random()|0).toString(16),
-        "WHITE_500": "#"+((1<<24)*Math.random()|0).toString(16),
-        "GREEN_360": "#"+((1<<24)*Math.random()|0).toString(16)
+        "PRIMARY_500": "#E3C5C5",
+        "PRIMARY_100": "#E4D4CC",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_230": "#F4EAE5",
+        "PRIMARY_300": "#735682",
+        "PRIMARY_360": "#7C6766",
+        "PRIMARY_400": "#735682",
+        "PRIMARY_600": "#281f2b",
+        "PRIMARY_630": "#231b27",
+        "PRIMARY_645": "#74646d",
+        "PRIMARY_660": "#231b27",
+        "PRIMARY_700": "#312438",
+        "PRIMARY_800": "#231b27",
+        "BRAND_260": "#D2B7AA",
+        "BRAND_360": "#F4EAE5",
+        "BRAND_500": "#74646d",
+        "BRAND_560": "#735682",
+        "YELLOW_300": "#D2B7AA",
+        "GREEN_600": "#EFDFD7",
+        "RED_400": "#BDA2A2",
+        "WHITE_500": "#EFDFD7",
+        "GREEN_360": "#74646d"
     },
+    
     "background": {
-        "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/1142927320869515479/1188221220332765204/image0.jpg?ex=6599bc3f&is=6587473f&hm=ce1df700ed02bbb7cb1f8d2578796ea5579968618661a6f557f7101c4c2f197b&",
-        "alpha": 0
+        "blur": 0.5,
+        "url": "https://cdn.discordapp.com/attachments/1142927320869515479/1188223882755313754/image0.jpg?ex=6599beb9&is=658749b9&hm=0d9b40a98abe88a3ab9c6d3968405dd28af13331bf60c5b952463d3ac8924153&",
+        "alpha": 0.7
+        },
+        "plus":{
+       "version":"0",
+        "iconpack":"rosiecord-plumpy",
+       "icons":{
+                "ic_new_pins":["#e64553"],
+                "StatusStreaming": ["#7e64fb"],
+              "StatusMobileOnline": ["#09bd63"],
+              "StatusIdle": ["#ffd401"],
+              "StatusDND": ["#ff611a"],
+              "StatusOffline": ["#015bd5"],
+              "StatusOnline": ["#09bd63"]}
     },
-    "plus": {
-        "version": "0",
-        "iconpack": "rosiecord-plumpy",
-        "icons": {
-            "ic_new_pins": ["#"+((1<<24)*Math.random()|0).toString(16)],
-            "StatusStreaming": ["#"+((1<<24)*Math.random()|0).toString(16)],
-            "StatusMobileOnline": ["#"+((1<<24)*Math.random()|0).toString(16)],
-            "StatusIdle": ["#"+((1<<24)*Math.random()|0).toString(16)],
-            "StatusDND": ["#"+((1<<24)*Math.random()|0).toString(16)],
-            "StatusOffline": ["#"+((1<<24)*Math.random()|0).toString(16)],
-            "StatusOnline": ["#"+((1<<24)*Math.random()|0).toString(16)]
-        }
-    },
-    "color": "#"+((1<<24)*Math.random()|0).toString(16)
+        "color": "#6b8e4e"
 }
