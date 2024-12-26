@@ -1,6 +1,6 @@
 {
-    "name": "PurpDarkUpdated",
-    "description": "An updated version of PurpDark with pitch-black backgrounds and adjusted purples.",
+    "name": "PurpDarkFinal",
+    "description": "Final version of PurpDark with cohesive colors, pitch-black backgrounds, darkened grays, and purple highlights.",
     "authors": [
         {
             "name": "@vorlie",
@@ -9,16 +9,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#D9B2AA", "#D1A298"
+            "#D9B2AA", "#D9B2AA"
         ],
         "HEADER_SECONDARY": [
             "#C29A91", "#B18B82"
         ],
         "TEXT_NORMAL": [
-            "#FFE8FE", "#141414"
+            "#FFFFFF", "#141414"
         ],
         "TEXT_MUTED": [
-            "#5C5C5C", "#202020"
+            "#3A3A3A", "#202020"
         ],
         "TEXT_LINK": [
             "#D9B2AA", "#A68276"
@@ -30,10 +30,10 @@
             "#D9B2AA", "#B18B82"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FDC5FA", "#A963F6"
+            "#B18B82", "#9A796E"
         ],
         "INTERACTIVE_MUTED": [
-            "#5F5160", "#8C8099"
+            "#2E2E2E", "#4A4A4A"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000", "#E9E9E9"
@@ -63,10 +63,10 @@
             "#000000", "#EBEBEB"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#1E1E1E", "#ECECEC"
+            "#1A1A1A", "#ECECEC"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1E1E1E", "#ECECEC"
+            "#1A1A1A", "#ECECEC"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#2C1E26", "#D9B2AA"
@@ -75,10 +75,10 @@
             "#4A3B44", "#D9B2AA"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#484848", "#B0B0B0"
+            "#1C1C1C", "#3A3A3A"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#1C1C1C", "#1C1C1C"
+            "#1A1A1A", "#1A1A1A"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent", "transparent"
@@ -90,7 +90,7 @@
             "#000000", "#A68276"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#000000", "#BEBEBE"
+            "#000000", "#3A3A3A"
         ],
         "CHANNELS_DEFAULT": [
             "#D9B2AA", "#A68276"
@@ -102,7 +102,7 @@
             "#000000", "#FFFFFF"
         ],
         "CHANNEL_ICON": [
-            "#D9B2AA", "#31283E"
+            "#D9B2AA", "#3A3A3A"
         ],
         "CHAT_BACKGROUND": [
             "#000000", "#FFFFFF"
@@ -116,15 +116,15 @@
         "PRIMARY_400": "#B18B82",
         "PRIMARY_500": "#A68276",
         "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#2F2F2F",
-        "PRIMARY_660": "#2F2F2F",
+        "PRIMARY_630": "#2E2E2E",
+        "PRIMARY_660": "#2E2E2E",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
         "BRAND_260": "#936195",
         "BRAND_360": "#C29A91",
         "BRAND_500": "#A68276",
         "BRAND_560": "#D096CF",
-        "WHITE_500": "#F0C4FF",
+        "WHITE_500": "#FFFFFF",
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61"
