@@ -1,6 +1,6 @@
 {
-    "name": "PurpDarkEnhanced",
-    "description": "A refined version with black, very dark gray, and shades of #916F68 and #D9B2AA.",
+    "name": "PurpDarkRefined",
+    "description": "A theme with a pitch-black background, using purple tones (#916F68 and #D9B2AA), white text, and accents.",
     "authors": [
         {
             "name": "@vorlie",
@@ -12,13 +12,13 @@
             "#D9B2AA", "#916F68"
         ],
         "HEADER_SECONDARY": [
-            "#916F68", "#1A1A1A"
+            "#916F68", "#916F68"
         ],
         "TEXT_NORMAL": [
-            "#D9B2AA", "#1A1A1A"
+            "#D9B2AA", "#916F68"
         ],
         "TEXT_MUTED": [
-            "#916F68", "#1A1A1A"
+            "#916F68", "#916F68"
         ],
         "TEXT_LINK": [
             "#D9B2AA", "#916F68"
@@ -33,40 +33,40 @@
             "#916F68", "#D9B2AA"
         ],
         "INTERACTIVE_MUTED": [
-            "#1A1A1A", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000", "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1A1A1A", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1A1A1A", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_ACCENT": [
             "#916F68", "#D9B2AA"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#1A1A1A", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1A1A1A", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#916F68", "#D9B2AA"
@@ -75,10 +75,10 @@
             "#916F68", "#D9B2AA"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1A1A1A", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#916F68", "#1A1A1A"
+            "#916F68", "#000000"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent", "transparent"
@@ -87,10 +87,10 @@
             "#916F68", "#D9B2AA"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#000000", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1A1A1A", "#1A1A1A"
+            "#000000", "#000000"
         ],
         "CHANNELS_DEFAULT": [
             "#916F68", "#D9B2AA"
@@ -99,25 +99,25 @@
             "#D9B2AA", "#D9B2AA"
         ],
         "KEYBOARD": [
-            "#1A1A1A", "#D9B2AA"
+            "#000000", "#D9B2AA"
         ],
         "CHANNEL_ICON": [
             "#916F68", "#D9B2AA"
         ],
         "CHAT_BACKGROUND": [
-            "#000000", "#1A1A1A"
+            "#000000", "#000000"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#D9B2AA",
         "PRIMARY_200": "#916F68",
-        "PRIMARY_300": "#1A1A1A",
+        "PRIMARY_300": "#916F68",
         "PRIMARY_360": "#916F68",
         "PRIMARY_400": "#D9B2AA",
         "PRIMARY_500": "#916F68",
-        "PRIMARY_600": "#1A1A1A",
-        "PRIMARY_630": "#1A1A1A",
-        "PRIMARY_660": "#1A1A1A",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
         "BRAND_260": "#916F68",
