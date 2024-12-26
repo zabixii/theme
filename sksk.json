@@ -1,6 +1,6 @@
 {
-    "name": "PurpDarkFinal",
-    "description": "Final version of PurpDark with cohesive colors, pitch-black backgrounds, darkened grays, and purple highlights.",
+    "name": "PurpDarkEnhanced",
+    "description": "A refined version with black, very dark gray, and shades of #916F68 and #D9B2AA.",
     "authors": [
         {
             "name": "@vorlie",
@@ -9,125 +9,125 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#D9B2AA", "#D9B2AA"
+            "#D9B2AA", "#916F68"
         ],
         "HEADER_SECONDARY": [
-            "#C29A91", "#B18B82"
+            "#916F68", "#1A1A1A"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF", "#141414"
+            "#D9B2AA", "#1A1A1A"
         ],
         "TEXT_MUTED": [
-            "#3A3A3A", "#202020"
+            "#916F68", "#1A1A1A"
         ],
         "TEXT_LINK": [
-            "#D9B2AA", "#A68276"
+            "#D9B2AA", "#916F68"
         ],
         "INTERACTIVE_NORMAL": [
-            "#C29A91", "#B18B82"
+            "#D9B2AA", "#916F68"
         ],
         "INTERACTIVE_HOVER": [
-            "#D9B2AA", "#B18B82"
+            "#D9B2AA", "#916F68"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#B18B82", "#9A796E"
+            "#916F68", "#D9B2AA"
         ],
         "INTERACTIVE_MUTED": [
-            "#2E2E2E", "#4A4A4A"
+            "#1A1A1A", "#1A1A1A"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000", "#E9E9E9"
+            "#000000", "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000", "#EBEBEB"
+            "#1A1A1A", "#1A1A1A"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000", "#EBEBEB"
+            "#1A1A1A", "#1A1A1A"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000", "#FFFFFF"
+            "#000000", "#1A1A1A"
         ],
         "BACKGROUND_ACCENT": [
-            "#D9B2AA", "#A68276"
+            "#916F68", "#D9B2AA"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000", "#EBEBEB"
+            "#000000", "#1A1A1A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000", "#EBEBEB"
+            "#000000", "#1A1A1A"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000", "#EBEBEB"
+            "#000000", "#1A1A1A"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000", "#EBEBEB"
+            "#000000", "#1A1A1A"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#1A1A1A", "#ECECEC"
+            "#1A1A1A", "#1A1A1A"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1A1A1A", "#ECECEC"
+            "#1A1A1A", "#1A1A1A"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#2C1E26", "#D9B2AA"
+            "#916F68", "#D9B2AA"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#4A3B44", "#D9B2AA"
+            "#916F68", "#D9B2AA"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1C1C1C", "#3A3A3A"
+            "#1A1A1A", "#1A1A1A"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#1A1A1A", "#1A1A1A"
+            "#916F68", "#1A1A1A"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent", "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#D9B2AA", "#A68276"
+            "#916F68", "#D9B2AA"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#000000", "#A68276"
+            "#000000", "#1A1A1A"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#000000", "#3A3A3A"
+            "#1A1A1A", "#1A1A1A"
         ],
         "CHANNELS_DEFAULT": [
-            "#D9B2AA", "#A68276"
+            "#916F68", "#D9B2AA"
         ],
         "TEXT_DANGER": [
-            "#FC0E61", "#FC0E61"
+            "#D9B2AA", "#D9B2AA"
         ],
         "KEYBOARD": [
-            "#000000", "#FFFFFF"
+            "#1A1A1A", "#D9B2AA"
         ],
         "CHANNEL_ICON": [
-            "#D9B2AA", "#3A3A3A"
+            "#916F68", "#D9B2AA"
         ],
         "CHAT_BACKGROUND": [
-            "#000000", "#FFFFFF"
+            "#000000", "#1A1A1A"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#D9B2AA",
-        "PRIMARY_200": "#B18B82",
-        "PRIMARY_300": "#9A796E",
-        "PRIMARY_360": "#C29A91",
-        "PRIMARY_400": "#B18B82",
-        "PRIMARY_500": "#A68276",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#2E2E2E",
-        "PRIMARY_660": "#2E2E2E",
+        "PRIMARY_200": "#916F68",
+        "PRIMARY_300": "#1A1A1A",
+        "PRIMARY_360": "#916F68",
+        "PRIMARY_400": "#D9B2AA",
+        "PRIMARY_500": "#916F68",
+        "PRIMARY_600": "#1A1A1A",
+        "PRIMARY_630": "#1A1A1A",
+        "PRIMARY_660": "#1A1A1A",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "BRAND_260": "#936195",
-        "BRAND_360": "#C29A91",
-        "BRAND_500": "#A68276",
-        "BRAND_560": "#D096CF",
-        "WHITE_500": "#FFFFFF",
-        "YELLOW_300": "#B569E0",
-        "GREEN_360": "#B569E0",
-        "RED_400": "#FC0E61"
+        "BRAND_260": "#916F68",
+        "BRAND_360": "#D9B2AA",
+        "BRAND_500": "#916F68",
+        "BRAND_560": "#D9B2AA",
+        "WHITE_500": "#D9B2AA",
+        "YELLOW_300": "#916F68",
+        "GREEN_360": "#916F68",
+        "RED_400": "#D9B2AA"
     },
     "spec": 2
 }
