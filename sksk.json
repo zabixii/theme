@@ -1,107 +1,18 @@
 {
-  "name": "PurpDarkRefined",
-  "description": "A theme with a pitch-black background, using purple tones (#916F68 and #D9B2AA), white text, and accents.",
+  "name": "Custom Pitch Black Theme",
+  "description": "A theme with pitch-black backgrounds and accents in white, D9B2AA, and 916F68.",
   "authors": [
     {
-      "name": "@vorlie",
-      "id": "614807913302851594"
+      "name": "Mylloon",
+      "id": "158260864623968257"
     }
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": [
-      "#D9B2AA", "#916F68"
-    ],
-    "HEADER_SECONDARY": [
-      "#916F68", "#916F68"
-    ]
-    "TEXT_MUTED": [
-      "#916F68", "#916F68"
-    ],
-    "TEXT_SECONDARY": [
-      "#916F68", "#916F68"
-    ],
-    "TEXT_LINK": [
-      "#D9B2AA", "#916F68"
-    ],
-    "TEXT_DANGER": [
-      "#D9B2AA", "#D9B2AA"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#D9B2AA", "#916F68"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#916F68", "#D9B2AA"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#D9B2AA", "#916F68"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#916F68", "#D9B2AA"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#916F68", "#D9B2AA"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#916F68", "#D9B2AA"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000", "#000000"
-    ],
-    "CHANNEL_ICON": [
-      "#916F68", "#D9B2AA"
-    ],
-    "CHAT_BACKGROUND": [
-      "#000000", "#000000"
-    ],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#D9B2AA", "#916F68"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#000000", "#000000"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#000000", "#000000"
-    ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#000000", "#000000"
-    ],
-    "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#D9B2AA", "#916F68"
-    ]
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#000000"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
+    "SPOILER_REVEALED_BACKGROUND": ["#000000"]
   },
   "rawColors": {
     "PRIMARY_560": "#000000",
@@ -132,3 +43,4 @@
     "iconpack": "md3"
   }
 }
+
