@@ -120,12 +120,5 @@
         "YELLOW_300": "#916F68",
         "GREEN_360": "#916F68",
         "RED_400": "#D9B2AA",
-        "TEXT_PRIMARY": "#FFFFFF",
-        "TEXT_SECONDARY": "#D9B2AA",
-        "TEXT_TERTIARY": "#916F68",
-        "BUTTON_PRIMARY_BACKGROUND": "#D9B2AA",
-        "BUTTON_PRIMARY_TEXT": "#FFFFFF",
-        "BUTTON_SECONDARY_BACKGROUND": "#916F68"
-        "BUTTON_SECONDARY_TEXT": "#FFFFFF",
     }
 }
