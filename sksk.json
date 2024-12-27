@@ -14,13 +14,7 @@
     ],
     "HEADER_SECONDARY": [
       "#916F68", "#916F68"
-    ],
-    "TEXT_NORMAL": [
-      "#D9B2AA", "#916F68"
-    ],
-    "TEXT_PRIMARY": [
-      "#D9B2AA", "#916F68"
-    ],
+    ]
     "TEXT_MUTED": [
       "#916F68", "#916F68"
     ],
