@@ -1,112 +1,114 @@
 {
-    "name": "PurpDarkRefined",
-    "description": "A theme with a pitch-black background, using purple tones (#916F68 and #D9B2AA), white text, and accents.",
+    "name": "Cyberpunk 2077 Refined",
+    "description": "Cyberpunk 2077 theme with a pitch-black background, purple accents (#916F68 and #D9B2AA), and white text.",
     "authors": [
         {
-            "name": "@vorlie",
-            "id": "614807913302851594"
+            "name": "Shion",
+            "id": "499287211381096458"
         }
     ],
-    "spec": 2,
     "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#D9B2AA", "#916F68"
-        ],
-        "HEADER_SECONDARY": [
-            "#916F68", "#916F68"
-        ],
-        "TEXT_NORMAL": [
-            "#D9B2AA", "#916F68"
-        ],
-        "TEXT_PRIMARY": [
-            "#D9B2AA", "#916F68"
-        ],
-        "TEXT_MUTED": [
-            "#916F68", "#916F68"
-        ],
-        "TEXT_SECONDARY": [
-            "#916F68", "#916F68"
-        ],
-        "TEXT_LINK": [
-            "#D9B2AA", "#916F68"
-        ],
-        "TEXT_DANGER": [
-            "#D9B2AA", "#D9B2AA"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#D9B2AA", "#916F68"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#916F68", "#D9B2AA"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#D9B2AA", "#916F68"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#000000", "#000000"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#000000", "#000000"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#000000", "#000000"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#000000", "#000000"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#000000", "#000000"
-        ],
         "BACKGROUND_ACCENT": [
-            "#916F68", "#D9B2AA"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#000000", "#000000"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000", "#000000"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000", "#000000"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#000000", "#000000"
+            "#916F68"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#000000", "#000000"
+            "#000000"
         ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#000000", "#000000"
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
         ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#916F68", "#D9B2AA"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#916F68", "#D9B2AA"
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000", "#000000"
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#916F68"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#916F68"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#D9B2AA"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BORDER_FAINT": [
+            "#916F68"
+        ],
+        "BORDER_STRONG": [
+            "#D9B2AA"
+        ],
+        "BORDER_SUBTLE": [
+            "#916F68"
         ],
         "CHANNEL_ICON": [
-            "#916F68", "#D9B2AA"
+            "#D9B2AA"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#916F68"
         ],
         "CHAT_BACKGROUND": [
-            "#000000", "#000000"
+            "#000000"
         ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#D9B2AA", "#916F68"
+        "HEADER_PRIMARY": [
+            "#FFFFFF"
         ],
-        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#000000", "#000000"
+        "HEADER_SECONDARY": [
+            "#D9B2AA"
         ],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#000000", "#000000"
+        "HOME_BACKGROUND": [
+            "#000000"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#D9B2AA"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#916F68"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#916F68"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#D9B2AA"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#000000", "#000000"
+            "#000000"
         ],
-        "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-            "#D9B2AA", "#916F68"
+        "TEXT_DANGER": [
+            "#916F68"
+        ],
+        "TEXT_LINK": [
+            "#D9B2AA"
+        ],
+        "TEXT_MUTED": [
+            "#916F68"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_SECONDARY": [
+            "#D9B2AA"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000000"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#000000"
         ]
     },
     "rawColors": {
@@ -121,13 +123,18 @@
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "BRAND_260": "#916F68",
-        "BRAND_360": "#D9B2AA",
-        "BRAND_500": "#916F68",
-        "BRAND_560": "#D9B2AA",
-        "WHITE_500": "#D9B2AA",
-        "YELLOW_300": "#916F68",
-        "GREEN_360": "#916F68",
-        "RED_400": "#D9B2AA"
-    }
+        "GREEN_100": "#916F68",
+        "GREEN_160": "#916F68",
+        "GREEN_260": "#D9B2AA",
+        "WHITE_500": "#FFFFFF",
+        "RED_400": "#916F68",
+        "YELLOW_300": "#D9B2AA",
+        "BRAND_500": "#D9B2AA"
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
+        "alpha": 1.0
+    },
+    "spec": 2
 }
