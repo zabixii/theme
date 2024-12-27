@@ -110,18 +110,13 @@
     ]
   },
   "rawColors": {
-    "PRIMARY_100": "#D9B2AA",
-    "PRIMARY_200": "#916F68",
-    "PRIMARY_300": "#916F68",
-    "PRIMARY_360": "#916F68",
-    "PRIMARY_400": "#D9B2AA",
-    "PRIMARY_500": "#916F68",
     "PRIMARY_560": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
     "PRIMARY_660": "#000000",
     "PRIMARY_700": "#000000",
     "PRIMARY_800": "#000000",
+
     "PLUM_15": "#000000",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
@@ -129,6 +124,7 @@
     "PLUM_20": "#000000",
     "PLUM_23": "#000000",
     "PLUM_24": "#000000",
+
     "TEXT_PRIMARY": "#FFFFFF",
     "TEXT_SECONDARY": "#D9B2AA",
     "TEXT_TERTIARY": "#916F68",
@@ -136,15 +132,6 @@
     "BUTTON_PRIMARY_TEXT": "#FFFFFF",
     "BUTTON_SECONDARY_BACKGROUND": "#916F68",
     "BUTTON_SECONDARY_TEXT": "#FFFFFF"
-    "BRAND_260": "#916F68",
-    "BRAND_360": "#D9B2AA",
-    "BRAND_500": "#916F68",
-    "BRAND_560": "#D9B2AA",
-    "WHITE_500": "#D9B2AA",
-    "YELLOW_300": "#916F68",
-    "GREEN_360": "#916F68",
-    "RED_400": "#D9B2AA"
-    
   },
   "plus": {
     "version": "0",
