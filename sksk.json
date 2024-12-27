@@ -24,13 +24,13 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#916F68"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#916F68"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#D9B2AA"
+            "#916F68"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
