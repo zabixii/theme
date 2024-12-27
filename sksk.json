@@ -1,56 +1,42 @@
 {
-  "name": "Custom Ethereal Pink Theme",
-  "description": "A soft and ethereal theme with a pink aesthetic.",
+  "name": "Custom Pitch Black Theme",
+  "description": "A theme with pitch-black backgrounds and accents in white, D9B2AA, and 916F68.",
   "authors": [
     {
-      "name": "Your Name",
-      "id": "YourID"
+      "name": "Mylloon",
+      "id": "158260864623968257"
     }
   ],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#000000"],
-    "BACKGROUND_SECONDARY": ["#0D0D0D"],
     "BACKGROUND_TERTIARY": ["#000000"],
-    "BACKGROUND_ACCENT": ["#08080A"],
-    "ACCENT_PRIMARY": ["#D9B2AA"],
-    "ACCENT_SECONDARY": ["#B38C84"],
-    "TEXT_NORMAL": ["#D9B2AA"],
-    "TEXT_MUTED": ["#8B6961"],
-    "TEXT_LINK": ["#D9B2AA"],
-    "TEXT_POSITIVE": ["#88B367"],
-    "TEXT_WARNING": ["#F4A261"],
-    "TEXT_DANGER": ["#E76F51"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
-    "SPOILER_REVEALED_BACKGROUND": ["#232428"]
+    "BACKGROUND_ACCENT": ["#000000"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
+    "SPOILER_REVEALED_BACKGROUND": ["#000000"]
   },
   "rawColors": {
-    "PRIMARY_560": "#08080A",
+    "PRIMARY_560": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
-    "PRIMARY_660": "#08080A",
-    "PRIMARY_700": "#08080A",
-    "PRIMARY_800": "#08080A",
-    "PLUM_15": "#08080A",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+
+    "PLUM_15": "#000000",
     "PLUM_17": "#000000",
-    "PLUM_18": "#08080A",
-    "PLUM_19": "#08080A",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
     "PLUM_20": "#000000",
     "PLUM_23": "#000000",
-    "PLUM_24": "#08080A",
-    "ACCENT_PRIMARY": "#D9B2AA",
-    "ACCENT_SECONDARY": "#B38C84",
-    "TEXT_NORMAL": "#D9B2AA",
-    "TEXT_MUTED": "#8B6961",
+    "PLUM_24": "#000000",
+
+    "TEXT_PRIMARY": "#FFFFFF",
+    "TEXT_SECONDARY": "#D9B2AA",
+    "TEXT_TERTIARY": "#916F68",
     "BUTTON_PRIMARY_BACKGROUND": "#D9B2AA",
-    "BUTTON_PRIMARY_TEXT": "#000000",
-    "BUTTON_SECONDARY_BACKGROUND": "#8B6961",
-    "BUTTON_SECONDARY_TEXT": "#FFFFFF",
-    "INTERACTIVE_NORMAL": "#D9B2AA",
-    "INTERACTIVE_HOVER": "#B38C84",
-    "INTERACTIVE_ACTIVE": "#8B6961",
-    "SCROLLBAR_THUMB": "#8B6961",
-    "SCROLLBAR_TRACK": "#1E1F22"
+    "BUTTON_PRIMARY_TEXT": "#FFFFFF",
+    "BUTTON_SECONDARY_BACKGROUND": "#916F68",
+    "BUTTON_SECONDARY_TEXT": "#FFFFFF"
   },
   "plus": {
     "version": "0",
