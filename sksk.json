@@ -1,140 +1,39 @@
 {
-    "name": "Cyberpunk 2077 Refined",
-    "description": "Cyberpunk 2077 theme with a pitch-black background, purple accents (#916F68 and #D9B2AA), and white text.",
-    "authors": [
-        {
-            "name": "Shion",
-            "id": "499287211381096458"
-        }
-    ],
-    "semanticColors": {
-        "BACKGROUND_ACCENT": [
-            "#916F68"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#916F68"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#000000"
-        ],
-        "BORDER_FAINT": [
-            "#916F68"
-        ],
-        "BORDER_STRONG": [
-            "#D9B2AA"
-        ],
-        "BORDER_SUBTLE": [
-            "#916F68"
-        ],
-        "CHANNEL_ICON": [
-            "#D9B2AA"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#916F68"
-        ],
-        "CHAT_BACKGROUND": [
-            "#000000"
-        ],
-        "HEADER_PRIMARY": [
-            "#FFFFFF"
-        ],
-        "HEADER_SECONDARY": [
-            "#D9B2AA"
-        ],
-        "HOME_BACKGROUND": [
-            "#000000"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#D9B2AA"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#916F68"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#916F68"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#D9B2AA"
-        ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#000000"
-        ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-            "#000000"
-        ],
-        "TEXT_DANGER": [
-            "#916F68"
-        ],
-        "TEXT_LINK": [
-            "#D9B2AA"
-        ],
-        "TEXT_MUTED": [
-            "#916F68"
-        ],
-        "TEXT_NORMAL": [
-            "#FFFFFF"
-        ],
-        "TEXT_SECONDARY": [
-            "#D9B2AA"
-        ],
-        "CARD_PRIMARY_BG": [
-            "#000000"
-        ],
-        "CARD_SECONDARY_BG": [
-            "#000000"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY_100": "#D9B2AA",
-        "PRIMARY_200": "#916F68",
-        "PRIMARY_300": "#916F68",
-        "PRIMARY_360": "#916F68",
-        "PRIMARY_400": "#D9B2AA",
-        "PRIMARY_500": "#916F68",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
-        "GREEN_100": "#916F68",
-        "GREEN_160": "#916F68",
-        "GREEN_260": "#D9B2AA",
-        "WHITE_500": "#FFFFFF",
-        "RED_400": "#916F68",
-        "YELLOW_300": "#D9B2AA",
-        "BRAND_500": "#D9B2AA"
-    },
-    "background": {
-        "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
-        "alpha": 1.0
-    },
-    "spec": 2
+  "name": "Custom Theme",
+  "description": "Aesthetic theme with rose gold accents.",
+  "authors": [
+    {
+      "name": "User"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#08080A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"],
+    "TEXT_NORMAL": ["#D9B2AA"],
+    "TEXT_LINK": ["#F4A1A1"],
+    "TEXT_DANGER": ["#E57373"]
+  },
+  "rawColors": {
+    "PRIMARY_560": "#08080A",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#08080A",
+    "PRIMARY_700": "#08080A",
+    "PRIMARY_800": "#08080A",
+
+    "PLUM_15": "#08080A",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#08080A",
+    "PLUM_19": "#08080A",
+    "PLUM_20": "#000000",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#08080A"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "md3"
+  }
 }
